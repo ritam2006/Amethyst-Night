@@ -1,0 +1,21 @@
+{
+  "name": "dark-purple-theme",
+  "displayName": "Dark Purple Theme",
+  "description": "A dark purple theme.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.100.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Dark Purple Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Dark Purple Theme-color-theme.json"
+      }
+    ]
+  }
+}
