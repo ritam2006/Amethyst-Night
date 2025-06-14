@@ -1,21 +1,27 @@
 {
-  "name": "dark-purple-theme",
-  "displayName": "Dark Purple Theme",
-  "description": "A dark purple theme.",
-  "version": "0.0.1",
+  "name": "amethyst-night-theme",
+  "displayName": "Amethyst Night Theme",
+  "description": "A modern dark theme with deep purple tones, soft neon accents, and carefully tuned syntax highlighting for a calm yet focused coding experience.",
+  "version": "1.0.0",
   "engines": {
     "vscode": "^1.100.0"
   },
   "categories": [
     "Themes"
   ],
+  "keywords": ["theme", "dark", "purple"],
   "contributes": {
     "themes": [
       {
-        "label": "Dark Purple Theme",
+        "label": "Amethyst Night Theme",
         "uiTheme": "vs-dark",
-        "path": "./themes/Dark Purple Theme-color-theme.json"
+        "path": "./themes/Amethyst Night Theme-color-theme.json"
       }
     ]
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ritam2006/Amethyst-Night"
+  },
+  "publisher": "ritam-chakraborty"
 }
