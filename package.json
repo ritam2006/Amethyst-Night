@@ -10,7 +10,23 @@
   "categories": [
     "Themes"
   ],
-  "keywords": ["theme", "dark", "purple"],
+  "keywords": [
+    "dark theme",
+    "purple",
+    "amethyst",
+    "night",
+    "syntax highlighting",
+    "vscode theme",
+    "vs code",
+    "developer theme",
+    "semantic highlighting",
+    "minimal",
+    "aesthetic",
+    "calm",
+    "neon",
+    "soft",
+    "cool colors"
+  ],
   "contributes": {
     "themes": [
       {
