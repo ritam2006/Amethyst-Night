@@ -1,7 +1,8 @@
 {
-  "name": "amethyst-night-theme",
-  "displayName": "Amethyst Night Theme",
+  "name": "amethyst-night",
+  "displayName": "Amethyst Night",
   "description": "A modern dark theme with deep purple tones, soft neon accents, and carefully tuned syntax highlighting for a calm yet focused coding experience.",
+  "icon": "icon.jpg",
   "version": "1.0.0",
   "engines": {
     "vscode": "^1.100.0"
@@ -13,9 +14,9 @@
   "contributes": {
     "themes": [
       {
-        "label": "Amethyst Night Theme",
+        "label": "Amethyst Night",
         "uiTheme": "vs-dark",
-        "path": "./themes/Amethyst Night Theme-color-theme.json"
+        "path": "./themes/Amethyst Night-color-theme.json"
       }
     ]
   },
