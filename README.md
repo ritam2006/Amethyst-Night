@@ -1,4 +1,4 @@
-# 🌌 Amethyst Night — VS Code Theme
+# Amethyst Night — VS Code Theme
 
 A refined dark theme for Visual Studio Code, **Amethyst Night** wraps your code in deep indigo shadows and soft amethyst hues. Built for clarity, calm, and contrast, it's designed to support long hours of focused coding across a wide range of languages.
 
@@ -34,6 +34,7 @@ For the best experience:
 "editor.fontLigatures": true,
 "editor.cursorSmoothCaretAnimation": true,
 "editor.fontFamily": "Fira Code, JetBrains Mono, Menlo, monospace"
+```
 
 ---
 
