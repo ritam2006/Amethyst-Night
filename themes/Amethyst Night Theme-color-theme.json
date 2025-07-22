@@ -19,9 +19,10 @@
 		"list.activeSelectionBackground": "#7c3aed60",
 		"list.hoverBackground": "#7c3aed20",
 		"list.inactiveSelectionBackground": "#7c3aed40",
-
 		"sideBar.background": "#252030",
 		"sideBar.border": "#3e3b4f",
+
+		"sideBarSectionHeader.background": "#7c3aed50",
 
 		"editorGroup.border":"#3e3b4f",
 		"editorGroupHeader.tabsBackground": "#252030",
