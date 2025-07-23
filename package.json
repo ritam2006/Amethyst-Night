@@ -2,7 +2,7 @@
   "name": "amethyst-night",
   "displayName": "Amethyst Night",
   "description": "A modern dark theme with deep purple tones, soft neon accents, and carefully tuned syntax highlighting for a calm yet focused coding experience.",
-  "icon": "https://github.com/ritam2006/Amethyst-Night/blob/main/images/icon.jpg?raw=true",
+  "icon": "images/icon.jpg",
   "version": "1.0.0",
   "engines": {
     "vscode": "^1.100.0"
