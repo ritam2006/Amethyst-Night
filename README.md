@@ -2,7 +2,7 @@
 
 A refined dark theme for Visual Studio Code, **Amethyst Night** wraps your code in deep indigo shadows and soft amethyst hues. Built for clarity, calm, and contrast, it's designed to support long hours of focused coding across a wide range of languages.
 
-![Amethyst Night Preview](preview.png)
+![Amethyst Night Preview](https://github.com/ritam2006/Amethyst-Night/blob/main/preview.png?raw=true)
 
 ---
 
